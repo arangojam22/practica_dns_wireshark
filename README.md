@@ -17,7 +17,10 @@ Repositorio con:
 │   ├── analisis-wireshark.md
 │   └── seguridad-dns.md
 └── capturas/
-    └── .gitkeep
+    ├── permisos.png
+    ├── practica.png
+    ├── practica_db.png
+    └── practica_debian.png
 ```
 
 ## Uso rápido
@@ -27,3 +30,10 @@ python3 dns_query.py example.com
 ```
 
 Consulta `docs/ejecucion.md` para más detalles.
+
+## Capturas de la actividad
+
+- [permisos.png](capturas/permisos.png)
+- [practica.png](capturas/practica.png)
+- [practica_db.png](capturas/practica_db.png)
+- [practica_debian.png](capturas/practica_debian.png)
