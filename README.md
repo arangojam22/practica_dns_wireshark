@@ -1,4 +1,5 @@
-# Práctica DNS con Python y Wireshark en Debian
+<details>
+<summary><h2><b> 🌀DNS-WIRESHARK </b></h2></summary>
 
 ## Objetivo
 
